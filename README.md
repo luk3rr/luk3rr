@@ -30,11 +30,17 @@
 	I'm a young padawan in the tech world and aspiring cybersecurity
 </h3>
 
-# My stats
+##
+
+## My stats
 <div align="center">
   <a href="https://github.com/luk3rr">
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luk3rr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-	  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk3rr&layout=compact&langs_count=7&theme=github_dark"/>
-	  </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luk3rr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luk3rr&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 	
-	
+<div id="enjoy" style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch-linux&logoColor=white" alt="Arch">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</div>
