@@ -15,12 +15,16 @@
   <a href="https://twitter.com/luk3rr">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href = "mailto:luk3rr@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
-  </a>
+
   <a href="https://pt.stackoverflow.com/users/291702/luk3rr">
      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Badge">	
-  </a>		
+  </a>
+  <a href="https://www.reddit.com/u/luk3rr/">
+     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge">	
+  </a>
+    <a href = "mailto:luk3rr@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge">
+  </a>
 </div>
  
 
