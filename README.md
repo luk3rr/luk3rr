@@ -6,12 +6,6 @@
   <a href="https://www.linkedin.com/in/luk3rr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/luskaoo/">
-	  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://discord.com/users/686767029121974303">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Instagram Badge">
-  </a> 
   <a href="https://twitter.com/luk3rr">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
@@ -29,9 +23,7 @@
  
 
 <h3>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"/>
-	I'm a young padawan in the tech world and aspiring cybersecurity
+  Hi there! I'm Lucas, a young padawan in the tech world :')
 </h3>
 
 ##
@@ -46,6 +38,6 @@
 <h2> 🖥️ I have fun using </h2>
 <div id="enjoy" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch-linux&logoColor=white" alt="Arch">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
