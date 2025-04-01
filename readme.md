@@ -38,6 +38,7 @@
 <h2> 🖥️ I have fun using </h2>
 <div id="enjoy" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=Arch-linux&logoColor=white" alt="Arch">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
